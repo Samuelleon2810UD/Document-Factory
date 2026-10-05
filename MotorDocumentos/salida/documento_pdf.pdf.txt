@@ -1,9 +1,0 @@
-%PDF-1.4 (simulado)
-BT /F1 24 Tf (Factura No. 001 - Fecha: 2026-10-04) Tj ET
-BT /F1 12 Tf (Cliente: ACME S.A.S. - Nota ***, ***=1234) Tj ET
-BT /F2 10 Tf (Producto   |   Cantidad   |   Valor) Tj ET
-BT /F2 10 Tf (Licencia anual   |   1   |   100000) Tj ET
-BT /F2 10 Tf (Soporte   |   1   |   10000) Tj ET
-BT /F1 12 Tf (Total a pagar: $114000) Tj ET
-BT /F1 8 Tf (Gracias por su compra) Tj ET
-%%EOF
